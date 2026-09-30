@@ -19,16 +19,88 @@ This repository contains steps on how I set up a basic home lab running Active D
 
 ## Lab Tasks
 
-- [ ] Windows Server 2022 install
-- [ ] Promote to Domain Controller
-- [ ] Configure DNS
-- [ ] Configure DHCP
-- [ ] Create OU structure, users, and groups
-- [ ] First Group Policy Objects (GPOs)
-- [ ] Join client machine to domain
-- [ ] File sharing / permissions (NTFS + share permissions)
-- [ ] Troubleshooting log
-- [ ] Wrap-up: lessons learned & what I'd do differently
+
+- Configure VirtualBox settings
+- Install Windows Server 2022
+- Rename server to SRV-DC01
+- Configure static IP address
+- Verify network connectivity
+- Install Active Directory Domain Services
+- Install DNS Server
+- Create domain corp.alphalab.local
+- Promote server to Domain Controller
+- Verify domain functionality
+- Create Company OU
+- Create IT OU
+- Create HR OU
+- Create Finance OU
+- Create Management OU
+- Create Computers OU
+- Create Servers OU
+- Create Groups OU
+- Create 15 user accounts
+- Create IT_Users group
+- Create HR_Users group
+- Create Finance_Users group
+-  Managers group
+- Add users to groups
+- Reset a user password
+- Disable a user account
+- Enable a user account
+- Unlock a locked account
+- Delete a user account
+- Restore a deleted account
+- Install DHCP Server role
+- Create DHCP scope
+- Create DHCP reservation
+- Create DHCP exclusion range
+- Verify DHCP lease assignment
+- Create DNS A record
+- Create DNS CNAME record
+- Create Reverse Lookup Zone
+- Test DNS resolution
+- Troubleshoot DNS issue
+- Install Windows 10/11 client
+- Connect client to corp-lan
+- Join client to domain
+- Log in with domain account
+- Remove client from domain
+- Rejoin client to domain
+- Rename client to CLIENT01
+- Create Password Policy GPO
+- Create Account Lockout Policy GPO
+- Create Desktop Wallpaper GPO
+- Disable Control Panel via GPO
+- Disable Command Prompt via GPO
+- Create Drive Mapping GPO
+- Force Group Policy update
+- Create IT shared folder
+- Create HR shared folder
+- Create Finance shared folder
+- Create Public shared folder
+Configure NTFS permissions
+Configure Share permissions
+Create hidden share
+Map shared drives
+Test user access permissions
+Simulate forgotten password ticket
+Simulate account lockout ticket
+Simulate DNS outage ticket
+Simulate DHCP failure ticket
+Simulate file access issue ticket
+Simulate domain join issue ticket
+Simulate printer issue ticket
+Document ticket resolution
+Create server build documentation
+Create Active Directory documentation
+Create Group Policy documentation
+Create DHCP documentation
+Create DNS documentation
+Create file server documentation
+Create asset inventory
+Create user inventory
+Create group inventory
+
 
 ## Key Skills
 
