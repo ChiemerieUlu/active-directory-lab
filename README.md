@@ -42,7 +42,7 @@ This repository contains steps on how I set up a basic home lab running Active D
 - Create IT_Users group
 - Create HR_Users group
 - Create Finance_Users group
--  Managers group
+- Managers group
 - Add users to groups
 - Reset a user password
 - Disable a user account
@@ -78,28 +78,28 @@ This repository contains steps on how I set up a basic home lab running Active D
 - Create HR shared folder
 - Create Finance shared folder
 - Create Public shared folder
-Configure NTFS permissions
-Configure Share permissions
-Create hidden share
-Map shared drives
-Test user access permissions
-Simulate forgotten password ticket
-Simulate account lockout ticket
-Simulate DNS outage ticket
-Simulate DHCP failure ticket
-Simulate file access issue ticket
-Simulate domain join issue ticket
-Simulate printer issue ticket
-Document ticket resolution
-Create server build documentation
-Create Active Directory documentation
-Create Group Policy documentation
-Create DHCP documentation
-Create DNS documentation
-Create file server documentation
-Create asset inventory
-Create user inventory
-Create group inventory
+- Configure NTFS permissions
+- Configure Share permissions
+- Create hidden share
+- Map shared drives
+- Test user access permissions
+- Simulate forgotten password ticket
+- Simulate account lockout ticket
+- Simulate DNS outage ticket
+- Simulate DHCP failure ticket
+- Simulate file access issue ticket
+- Simulate domain join issue ticket
+- Simulate printer issue ticket
+- Document ticket resolution
+- Create server build documentation
+- Create Active Directory documentation
+- Create Group Policy documentation
+- Create DHCP documentation
+- Create DNS documentation
+- Create file server documentation
+- Create asset inventory
+- Create user inventory
+- Create group inventory
 
 
 ## Key Skills
@@ -127,6 +127,11 @@ Create group inventory
 /images
 (screenshots referenced in docs)
 README.md
+
+
+## Key Terminologies
+
+Active Directory: Active Directory is a directory service created by Microsoft for IT Managers to configure, maintain and monitor devices in an organization.
 
 
 ## Status
