@@ -131,8 +131,19 @@ README.md
 
 ## Key Terminologies
 
-Active Directory: Active Directory is a directory service created by Microsoft for IT Managers to configure, maintain and monitor devices in an organization.
+Active Directory: Active Directory is a directory service created by Microsoft that stores, manages info users, devices and resources over a network.
 
+Active Directory Domain Services (AD DS): This is responsible for storing and managing information about users, services and devices connected to the network.
+
+Domain Controller:
+
+Organizational Units:
+
+Group Policy Objects:
+
+DNS: Domain Name Network is a phenomenon that resolves domain names. AD DS is heavily reliant on DNS to lcate the domain controller.
+
+DHCP: Dynamic Host Configuration Protocol is a network protocol that assigns IP addresses automatically to devices over a network.
 
 ## Status
 
